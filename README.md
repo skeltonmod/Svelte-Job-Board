@@ -1,5 +1,7 @@
 # Sveltekit Job Board
 
+A sveltekit job posting board that utilizes sveltekit for the entire fullstack framework, to save time
+
 ## Tech Stack
 - Sveltekit: Fullstack framework (uses nodeJS adapter)
 - Typescript: Language
